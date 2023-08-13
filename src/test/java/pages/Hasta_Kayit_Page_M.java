@@ -16,6 +16,7 @@ public class Hasta_Kayit_Page_M {
     // Bu bir denemedirden sonraki denemedir
     // 4. deneme
     // 5. değişiklik merve den
+    // 6. değişiklik yine merveden
 
 
     @FindBy(xpath = "(//input[@class='inpt wpx50'])[3]")

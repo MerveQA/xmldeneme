@@ -11,9 +11,10 @@ public class Hasta_Kayit_Page_M {
     }
 
 
-  // Bu bir denemedir
+    // Bu bir denemedir
     // Bu da bir denemedir
     // Bu bir denemedirden sonraki denemedir
+    // 4. deneme
 
 
     @FindBy(xpath = "(//input[@class='inpt wpx50'])[3]")

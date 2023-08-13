@@ -11,7 +11,7 @@ public class Hasta_Kayit_Page_M {
     }
 
 
-
+  // Bu bir denemedir
 
     @FindBy(xpath = "(//input[@class='inpt wpx50'])[3]")
     public WebElement kurum;
